@@ -2,7 +2,7 @@
 # 2. Python is Interactive - means interact with prompt.
 # 3. Python is Object-Oriented.
 
-# Feature of Python
+# ---------------> Feature of Python <------------------------
 # 1. Easy-to-learn
 # 2. East-to-learn
 # 3. Easy-to-maintain
