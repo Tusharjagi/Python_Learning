@@ -15,6 +15,28 @@
 9. GUI Programming
 10. Scalable
 
+--------> Basic Python <-----------
+1) List
+2) Tuples
+3) Sets
+4) Dictionaries
+5) Loops
+6) Arrays
+7) Classes/Objects
+8) Inheritance
+9) Scope
+10) Modules
+
+--------> Advanced Python <-----------
+
+1) Iterators
+2) Generators
+3) Lambda Functions
+4) Maps
+5) Filtering
+6) Decorators
+
+
 ------------> Data Structure in Python <---------------------------
 -------> Build In <--------
 1. List                 -> My_List = []               -> Mutable
