@@ -10,3 +10,17 @@ def function1(n):
 
 function1("this i me")
 # print(m)
+
+""""
+def Tango():
+    x = 20
+    def rahul():
+        global x
+        x = 88
+    print("before",x)
+    rahul()
+    print("after",x)
+
+Tango()
+
+"""

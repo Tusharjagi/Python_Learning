@@ -40,9 +40,9 @@
 ------------> Data Structure in Python <---------------------------
 -------> Build In <--------
 1. List                 -> My_List = []               -> Mutable
-2. Dictionary           -> My_Dict = {}               -> Mutable
-3. Tuple                -> My_tuple = ()              -> Immutable
-4. Sets                 -> My_Set = {}                -> Mutable
+2. Dictionary           -> My_Dict = {}               -> Mutable   (We can Change the value)
+3. Tuple                -> My_tuple = ()              -> Immutable (We cannot Change the value )
+4. Sets                 -> My_Set = {}                -> Mutable   (Using the Hash)
 
 -------> User Define <--------
 1. Arrays
